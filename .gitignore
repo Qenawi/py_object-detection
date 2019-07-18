@@ -7,4 +7,6 @@
 /build
 /captures
 /yolov3.weights
+.yolov3.weights
+yolov3.weights
 .externalNativeBuild
